@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="pushy-cordova-receiver" version="1.0.0">
-    <name>Pushy SDK Receiver for Cordova</name>
+    <name>PushyReceiver</name>
     <description>A sample push receiver implementation for the Pushy SDK for Cordova.</description>
     <license>Apache 2.0</license>
     <keywords>pushy pushy.me sdk android receiver cordova phonegap ionic</keywords>
